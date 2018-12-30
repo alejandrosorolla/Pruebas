@@ -29,7 +29,6 @@ public class pruebaE_S {
 		bw.write("El fichero de texto ya estaba creado.");
 		bw.newLine();
 		bw.write("El fichero de texto ya estaba creado.");
-		bw.write("El fichero de texto ya estaba creado.");
 		bw.close();
 	}
 	

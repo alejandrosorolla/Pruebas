@@ -30,7 +30,6 @@ public class pruebaE_S {
 		bw.newLine();
 		bw.write("El fichero de texto ya estaba creado.");
 		bw.write("El fichero de texto ya estaba creado.");
-		bw.write("El fichero de texto ya estaba creado.");
 		bw.close();
 	}
 	

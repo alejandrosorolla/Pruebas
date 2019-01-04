@@ -11,11 +11,11 @@ import java.io.IOException;
 public class pruebaE_S {
 	
 	public static void main(String[] args) throws IOException {
-		String ciudad="castellon";
+		String ciudad="castellón";
 		String extension=".txt";
 		String fichero=ciudad+extension;
 		System.out.println(fichero);
-		String ruta = "Castellon.txt";
+		String ruta = "Castellón.txt";
 		leerFichero(ruta);
 	}
 	
